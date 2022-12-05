@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         int a1, a2, b1, b2;
+
         a1 = 3; //Первый
         b1 = 5; //отрезок
         a2 = 4; //Второй
